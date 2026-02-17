@@ -17,7 +17,7 @@ public class CarroService {
         return carroRepository.save(carro);
     }
 
-    public List<CarroModel> listarCarros(CarroModel carro) { //listando todos os carros da entity
+    public List<CarroModel> listarCarros() { //listando todos os carros da entity
         return carroRepository.findAll();
     }
 
