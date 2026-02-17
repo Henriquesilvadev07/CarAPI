@@ -1,4 +1,4 @@
-package com.treino.treino.entity;
+package com.treino.treino.model;
 
 
 import jakarta.persistence.*;

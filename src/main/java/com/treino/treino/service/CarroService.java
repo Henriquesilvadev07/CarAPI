@@ -1,6 +1,6 @@
 package com.treino.treino.service;
 
-import com.treino.treino.entity.CarroModel;
+import com.treino.treino.model.CarroModel;
 import com.treino.treino.repository.CarroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
